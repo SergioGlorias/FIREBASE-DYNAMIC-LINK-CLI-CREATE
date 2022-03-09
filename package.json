@@ -1,0 +1,14 @@
+{
+  "name": "createlinksdinamic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SergioGlorias/FIREBASE-DYNAMIC-LINK-CLI-CREATE.git",
+  "author": "Sérgio Glórias <sergio@serginho.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "dotenv": "^16.0.0",
+    "valid-url": "^1.0.9"
+  },
+  "type": "module"
+}
