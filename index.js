@@ -19,6 +19,9 @@ rl.question("Insira o link que quer encortar: ", async (link) => {
             dynamicLinkInfo: {
                 domainUriPrefix: process.env.FIREBASE_DYNAMIC_LINK_DOMAIN,
                 link: link
+            },
+            suffix: {
+                option: "SHORT"
             }
         });
         
