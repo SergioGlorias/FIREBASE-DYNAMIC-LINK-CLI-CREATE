@@ -6,7 +6,7 @@
   "author": "Sérgio Glórias <sergio@serginho.dev>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.26.0",
+    "axios": "^1.6.0",
     "dotenv": "^16.0.0",
     "valid-url": "^1.0.9"
   },
